@@ -1,0 +1,19 @@
+{
+  "name": "@simraankhan/is-duplicate-array",
+  "version": "1.0.0",
+  "description": "Check given two arrays are duplicated",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simraankhan09/is-duplicate-array.git"
+  },
+  "author": "simraan khan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/simraankhan09/is-duplicate-array/issues"
+  },
+  "homepage": "https://github.com/simraankhan09/is-duplicate-array#readme"
+}
