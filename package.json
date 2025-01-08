@@ -1,6 +1,6 @@
 {
-  "name": "@simraankhan/is-duplicate-array",
-  "version": "1.0.0",
+  "name": "is-duplicate-array",
+  "version": "1.0.1",
   "description": "Check given two arrays are duplicated",
   "main": "index.js",
   "scripts": {
